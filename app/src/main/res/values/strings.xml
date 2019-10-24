@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="profile_pic">Profile Picture</string>
+    <string name="profile_desc">
+        Address: 1015, Jalan SK 55, 43300 Seri Kembangan, Selangor.
+        \n\nEducation:
+        \n\tSJKC Serdang Baru 1
+        \n\tSMK Seri Kembangan
+        \n\tTAR UC , KL
+        \n\nWorking Experiences:
+        \n\tEvent security, Axiata Arena
+        \n\tPromoter, Giant
+    </string>
+</resources>
